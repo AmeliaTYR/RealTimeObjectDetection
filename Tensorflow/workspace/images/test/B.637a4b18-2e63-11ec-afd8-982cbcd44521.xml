@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>B.637a4b18-2e63-11ec-afd8-982cbcd44521.jpg</filename>
+	<path>C:\Users\Amelia\Documents\GitHub\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\B.637a4b18-2e63-11ec-afd8-982cbcd44521.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>B</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>276</xmin>
+			<ymin>194</ymin>
+			<xmax>436</xmax>
+			<ymax>479</ymax>
+		</bndbox>
+	</object>
+</annotation>

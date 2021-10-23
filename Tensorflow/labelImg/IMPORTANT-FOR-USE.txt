@@ -1,0 +1,2 @@
+this repo was cloned from https://github.com/tzutalin/labelImg for use
+the .git and .github files have been removed so the parent repo can be committed

@@ -1,0 +1,4 @@
+this repo was cloned from https://github.com/tensorflow/models for use
+the .git and .github files have been removed so the parent repo can be committed
+
+Refer to the https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html#tensorflow-object-detection-api-installation for more information
